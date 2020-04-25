@@ -11,6 +11,9 @@ script = ExtResource( 1 )
 margin_right = 1024.0
 margin_bottom = 600.0
 color = Color( 0.878431, 0.878431, 0.878431, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="Display" type="Label" parent="."]
 margin_left = 414.022
@@ -71,7 +74,8 @@ margin_top = 370.0
 margin_right = 436.0
 margin_bottom = 483.0
 __meta__ = {
-"_edit_group_": true
+"_edit_group_": true,
+"_edit_use_anchors_": false
 }
 
 [node name="Label" type="Label" parent="Buttons/Save"]
@@ -89,7 +93,8 @@ margin_top = 370.0
 margin_right = 877.0
 margin_bottom = 488.0
 __meta__ = {
-"_edit_group_": true
+"_edit_group_": true,
+"_edit_use_anchors_": false
 }
 
 [node name="Label" type="Label" parent="Buttons/Load"]
