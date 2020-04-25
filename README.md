@@ -1,4 +1,5 @@
 # E07a-Save-and-Load    
+This completes the Save and Load assignment. Sunny Patel, c220, 2020.
 
 This is an opportunity for you to practice the simplest form of saving state in Godot, saving to a config file.
 
